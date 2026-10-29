@@ -1,0 +1,14 @@
+torch
+gpytorch
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+openpyxl
+pyDOE
+pykan
+psutil
+jupyterlab
+pywin32; sys_platform == "win32"
